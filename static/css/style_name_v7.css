@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('http://fonts.cdnfonts.com/css/elianto');
+
+
+
+body {
+  margin: 0;
+  color: #fff;
+  background-size: cover;
+}
+
+a.navbar-brand {
+    font-family: 'Elianto', sans-serif;
+    } 
+
+    
+a.nav-link {
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 14px;
+  font-weight: bold; 
+
+}
+#map,
+
+h3 {
+    font-family: 'Elianto', sans-serif;
+    }
+html {
+  height: 100%;
+}

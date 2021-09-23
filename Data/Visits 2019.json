@@ -1,0 +1,3041 @@
+[{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c89"
+  },
+  "ParkName": "Blue Ridge PKWY",
+  "Rank": "1",
+  "Value": "14099485",
+  "PercentOfTotal": "0.0595"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c8a"
+  },
+  "ParkName": "Golden Gate NRA",
+  "Rank": "2",
+  "Value": "12400045",
+  "PercentOfTotal": "0.0523"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c8b"
+  },
+  "ParkName": "Great Smoky Mountains NP",
+  "Rank": "3",
+  "Value": "12095720",
+  "PercentOfTotal": "0.051"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c8c"
+  },
+  "ParkName": "Gateway NRA",
+  "Rank": "4",
+  "Value": "8404728",
+  "PercentOfTotal": "0.0355"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c8d"
+  },
+  "ParkName": "Lake Mead NRA",
+  "Rank": "5",
+  "Value": "8016510",
+  "PercentOfTotal": "0.0338"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c8e"
+  },
+  "ParkName": "George Washington MEM PKWY",
+  "Rank": "6",
+  "Value": "6237361",
+  "PercentOfTotal": "0.0263"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c8f"
+  },
+  "ParkName": "Natchez Trace PKWY",
+  "Rank": "7",
+  "Value": "6124808",
+  "PercentOfTotal": "0.0258"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c90"
+  },
+  "ParkName": "Chesapeake & Ohio Canal NHP",
+  "Rank": "8",
+  "Value": "4888436",
+  "PercentOfTotal": "0.0206"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c91"
+  },
+  "ParkName": "Cape Cod NS",
+  "Rank": "9",
+  "Value": "4083505",
+  "PercentOfTotal": "0.0172"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c92"
+  },
+  "ParkName": "Delaware Water Gap NRA",
+  "Rank": "10",
+  "Value": "4068529",
+  "PercentOfTotal": "0.0172"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c93"
+  },
+  "ParkName": "Gulf Islands NS",
+  "Rank": "11",
+  "Value": "4012129",
+  "PercentOfTotal": "0.0169"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c94"
+  },
+  "ParkName": "Yellowstone NP",
+  "Rank": "12",
+  "Value": "3806306",
+  "PercentOfTotal": "0.0161"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c95"
+  },
+  "ParkName": "Zion NP",
+  "Rank": "13",
+  "Value": "3591254",
+  "PercentOfTotal": "0.0151"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c96"
+  },
+  "ParkName": "Rocky Mountain NP",
+  "Rank": "14",
+  "Value": "3305199",
+  "PercentOfTotal": "0.0139"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c97"
+  },
+  "ParkName": "Grand Teton NP",
+  "Rank": "15",
+  "Value": "3289638",
+  "PercentOfTotal": "0.0139"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c98"
+  },
+  "ParkName": "Chattahoochee River NRA",
+  "Rank": "16",
+  "Value": "3066877",
+  "PercentOfTotal": "0.0129"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c99"
+  },
+  "ParkName": "Lincoln Memorial",
+  "Rank": "17",
+  "Value": "2980075",
+  "PercentOfTotal": "0.0126"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c9a"
+  },
+  "ParkName": "Colonial NHP",
+  "Rank": "18",
+  "Value": "2946594",
+  "PercentOfTotal": "0.0124"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c9b"
+  },
+  "ParkName": "Grand Canyon NP",
+  "Rank": "19",
+  "Value": "2897098",
+  "PercentOfTotal": "0.0122"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c9c"
+  },
+  "ParkName": "Cuyahoga Valley NP",
+  "Rank": "20",
+  "Value": "2755628",
+  "PercentOfTotal": "0.0116"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c9d"
+  },
+  "ParkName": "Acadia NP",
+  "Rank": "21",
+  "Value": "2669034",
+  "PercentOfTotal": "0.0113"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c9e"
+  },
+  "ParkName": "Cape Hatteras NS",
+  "Rank": "22",
+  "Value": "2648522",
+  "PercentOfTotal": "0.0112"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571c9f"
+  },
+  "ParkName": "Glen Canyon NRA",
+  "Rank": "23",
+  "Value": "2553392",
+  "PercentOfTotal": "0.0108"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ca0"
+  },
+  "ParkName": "Olympic NP",
+  "Rank": "24",
+  "Value": "2499177",
+  "PercentOfTotal": "0.0105"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ca1"
+  },
+  "ParkName": "Assateague Island NS",
+  "Rank": "25",
+  "Value": "2481660",
+  "PercentOfTotal": "0.0105"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ca2"
+  },
+  "ParkName": "Joshua Tree NP",
+  "Rank": "26",
+  "Value": "2399542",
+  "PercentOfTotal": "0.0101"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ca3"
+  },
+  "ParkName": "Kennesaw Mountain NBP",
+  "Rank": "27",
+  "Value": "2356401",
+  "PercentOfTotal": "0.0099"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ca4"
+  },
+  "ParkName": "Indiana Dunes NP",
+  "Rank": "28",
+  "Value": "2293106",
+  "PercentOfTotal": "0.0097"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ca5"
+  },
+  "ParkName": "Yosemite NP",
+  "Rank": "29",
+  "Value": "2268313",
+  "PercentOfTotal": "0.0096"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ca6"
+  },
+  "ParkName": "Point Reyes NS",
+  "Rank": "30",
+  "Value": "2252424",
+  "PercentOfTotal": "0.0095"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ca7"
+  },
+  "ParkName": "Mount Rushmore NMEM",
+  "Rank": "31",
+  "Value": "2074986",
+  "PercentOfTotal": "0.0088"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ca8"
+  },
+  "ParkName": "Valley Forge NHP",
+  "Rank": "32",
+  "Value": "2012832",
+  "PercentOfTotal": "0.0085"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ca9"
+  },
+  "ParkName": "San Francisco Maritime NHP",
+  "Rank": "33",
+  "Value": "1936101",
+  "PercentOfTotal": "0.0082"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571caa"
+  },
+  "ParkName": "World War II Memorial",
+  "Rank": "34",
+  "Value": "1924128",
+  "PercentOfTotal": "0.0081"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cab"
+  },
+  "ParkName": "Rock Creek Park",
+  "Rank": "35",
+  "Value": "1768152",
+  "PercentOfTotal": "0.0075"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cac"
+  },
+  "ParkName": "Sleeping Bear Dunes NL",
+  "Rank": "36",
+  "Value": "1718696",
+  "PercentOfTotal": "0.0072"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cad"
+  },
+  "ParkName": "Glacier NP",
+  "Rank": "37",
+  "Value": "1698864",
+  "PercentOfTotal": "0.0072"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cae"
+  },
+  "ParkName": "Shenandoah NP",
+  "Rank": "38",
+  "Value": "1666265",
+  "PercentOfTotal": "0.007"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571caf"
+  },
+  "ParkName": "Lake Meredith NRA",
+  "Rank": "39",
+  "Value": "1612784",
+  "PercentOfTotal": "0.0068"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cb0"
+  },
+  "ParkName": "Vietnam Veterans MEM",
+  "Rank": "40",
+  "Value": "1585525",
+  "PercentOfTotal": "0.0067"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cb1"
+  },
+  "ParkName": "Lake Roosevelt NRA",
+  "Rank": "41",
+  "Value": "1519403",
+  "PercentOfTotal": "0.0064"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cb2"
+  },
+  "ParkName": "Buffalo NR",
+  "Rank": "42",
+  "Value": "1478846",
+  "PercentOfTotal": "0.0062"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cb3"
+  },
+  "ParkName": "Bryce Canyon NP",
+  "Rank": "43",
+  "Value": "1464655",
+  "PercentOfTotal": "0.0062"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cb4"
+  },
+  "ParkName": "Amistad NRA",
+  "Rank": "44",
+  "Value": "1424139",
+  "PercentOfTotal": "0.006"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cb5"
+  },
+  "ParkName": "John D. Rockefeller, Jr. MEM PKWY",
+  "Rank": "45",
+  "Value": "1373817",
+  "PercentOfTotal": "0.0058"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cb6"
+  },
+  "ParkName": "Korean War Veterans Memorial",
+  "Rank": "46",
+  "Value": "1363714",
+  "PercentOfTotal": "0.0058"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cb7"
+  },
+  "ParkName": "Hot Springs NP",
+  "Rank": "47",
+  "Value": "1348215",
+  "PercentOfTotal": "0.0057"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cb8"
+  },
+  "ParkName": "Chickasaw NRA",
+  "Rank": "48",
+  "Value": "1348122",
+  "PercentOfTotal": "0.0057"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cb9"
+  },
+  "ParkName": "Ozark NSR",
+  "Rank": "49",
+  "Value": "1316795",
+  "PercentOfTotal": "0.0056"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cba"
+  },
+  "ParkName": "Arches NP",
+  "Rank": "50",
+  "Value": "1238083",
+  "PercentOfTotal": "0.0052"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cbb"
+  },
+  "ParkName": "Pictured Rocks NL",
+  "Rank": "51",
+  "Value": "1212251",
+  "PercentOfTotal": "0.0051"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cbc"
+  },
+  "ParkName": "Big Cypress NPRES",
+  "Rank": "52",
+  "Value": "1181930",
+  "PercentOfTotal": "0.005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cbd"
+  },
+  "ParkName": "Canaveral NS",
+  "Rank": "53",
+  "Value": "1162950",
+  "PercentOfTotal": "0.0049"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cbe"
+  },
+  "ParkName": "Mount Rainier NP",
+  "Rank": "54",
+  "Value": "1160754",
+  "PercentOfTotal": "0.0049"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cbf"
+  },
+  "ParkName": "San Antonio Missions NHP",
+  "Rank": "55",
+  "Value": "1141353",
+  "PercentOfTotal": "0.0048"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cc0"
+  },
+  "ParkName": "Minute Man NHP",
+  "Rank": "56",
+  "Value": "1083973",
+  "PercentOfTotal": "0.0046"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cc1"
+  },
+  "ParkName": "Martin Luther King, Jr. Memorial",
+  "Rank": "57",
+  "Value": "1083671",
+  "PercentOfTotal": "0.0046"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cc2"
+  },
+  "ParkName": "New River Gorge NP & PRES",
+  "Rank": "58",
+  "Value": "1054374",
+  "PercentOfTotal": "0.0044"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cc3"
+  },
+  "ParkName": "Timucuan EHP",
+  "Rank": "59",
+  "Value": "1017373",
+  "PercentOfTotal": "0.0043"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cc4"
+  },
+  "ParkName": "Franklin Delano Roosevelt MEM",
+  "Rank": "60",
+  "Value": "1010986",
+  "PercentOfTotal": "0.0043"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cc5"
+  },
+  "ParkName": "Capitol Reef NP",
+  "Rank": "61",
+  "Value": "981038",
+  "PercentOfTotal": "0.0041"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cc6"
+  },
+  "ParkName": "Curecanti NRA",
+  "Rank": "62",
+  "Value": "921584",
+  "PercentOfTotal": "0.0039"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cc7"
+  },
+  "ParkName": "Ross Lake NRA",
+  "Rank": "63",
+  "Value": "920526",
+  "PercentOfTotal": "0.0039"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cc8"
+  },
+  "ParkName": "Badlands NP",
+  "Rank": "64",
+  "Value": "916932",
+  "PercentOfTotal": "0.0039"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cc9"
+  },
+  "ParkName": "Independence NHP",
+  "Rank": "65",
+  "Value": "907090",
+  "PercentOfTotal": "0.0038"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cca"
+  },
+  "ParkName": "National Capital Parks East",
+  "Rank": "66",
+  "Value": "893421",
+  "PercentOfTotal": "0.0038"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ccb"
+  },
+  "ParkName": "Fort Point NHS",
+  "Rank": "67",
+  "Value": "884538",
+  "PercentOfTotal": "0.0037"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ccc"
+  },
+  "ParkName": "Thomas Jefferson MEM",
+  "Rank": "68",
+  "Value": "852626",
+  "PercentOfTotal": "0.0036"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ccd"
+  },
+  "ParkName": "Cedar Breaks NM",
+  "Rank": "69",
+  "Value": "845867",
+  "PercentOfTotal": "0.0036"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cce"
+  },
+  "ParkName": "Fredericksburg & Spotsylvania NMP",
+  "Rank": "70",
+  "Value": "838835",
+  "PercentOfTotal": "0.0035"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ccf"
+  },
+  "ParkName": "Death Valley NP",
+  "Rank": "71",
+  "Value": "820023",
+  "PercentOfTotal": "0.0035"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cd0"
+  },
+  "ParkName": "Whiskeytown NRA",
+  "Rank": "72",
+  "Value": "805295",
+  "PercentOfTotal": "0.0034"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cd1"
+  },
+  "ParkName": "Little River Canyon NPRES",
+  "Rank": "73",
+  "Value": "802375",
+  "PercentOfTotal": "0.0034"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cd2"
+  },
+  "ParkName": "Saint Croix NSR",
+  "Rank": "74",
+  "Value": "798622",
+  "PercentOfTotal": "0.0034"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cd3"
+  },
+  "ParkName": "Sequoia NP",
+  "Rank": "75",
+  "Value": "796086",
+  "PercentOfTotal": "0.0034"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cd4"
+  },
+  "ParkName": "Big South Fork NRRA",
+  "Rank": "76",
+  "Value": "772625",
+  "PercentOfTotal": "0.0033"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cd5"
+  },
+  "ParkName": "Saguaro NP",
+  "Rank": "77",
+  "Value": "762226",
+  "PercentOfTotal": "0.0032"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cd6"
+  },
+  "ParkName": "Cumberland Gap NHP",
+  "Rank": "78",
+  "Value": "735447",
+  "PercentOfTotal": "0.0031"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cd7"
+  },
+  "ParkName": "Santa Monica Mountains NRA",
+  "Rank": "79",
+  "Value": "733576",
+  "PercentOfTotal": "0.0031"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cd8"
+  },
+  "ParkName": "Everglades NP",
+  "Rank": "80",
+  "Value": "702319",
+  "PercentOfTotal": "0.003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cd9"
+  },
+  "ParkName": "Chickamauga & Chattanooga NMP",
+  "Rank": "81",
+  "Value": "678414",
+  "PercentOfTotal": "0.0029"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cda"
+  },
+  "ParkName": "Crater Lake NP",
+  "Rank": "82",
+  "Value": "670500",
+  "PercentOfTotal": "0.0028"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cdb"
+  },
+  "ParkName": "Fort Vancouver NHS",
+  "Rank": "83",
+  "Value": "670111",
+  "PercentOfTotal": "0.0028"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cdc"
+  },
+  "ParkName": "National Capital Parks Central",
+  "Rank": "84",
+  "Value": "665650",
+  "PercentOfTotal": "0.0028"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cdd"
+  },
+  "ParkName": "Castle Clinton NM",
+  "Rank": "85",
+  "Value": "633793",
+  "PercentOfTotal": "0.0027"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cde"
+  },
+  "ParkName": "Padre Island NS",
+  "Rank": "86",
+  "Value": "617704",
+  "PercentOfTotal": "0.0026"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cdf"
+  },
+  "ParkName": "Mojave NPRES",
+  "Rank": "87",
+  "Value": "608633",
+  "PercentOfTotal": "0.0026"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ce0"
+  },
+  "ParkName": "Hawaii Volcanoes NP",
+  "Rank": "88",
+  "Value": "589775",
+  "PercentOfTotal": "0.0025"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ce1"
+  },
+  "ParkName": "Statue of Liberty NM",
+  "Rank": "89",
+  "Value": "576396",
+  "PercentOfTotal": "0.0024"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ce2"
+  },
+  "ParkName": "Manassas NBP",
+  "Rank": "90",
+  "Value": "558036",
+  "PercentOfTotal": "0.0024"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ce3"
+  },
+  "ParkName": "Theodore Roosevelt NP",
+  "Rank": "91",
+  "Value": "551303",
+  "PercentOfTotal": "0.0023"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ce4"
+  },
+  "ParkName": "Fort Matanzas NM",
+  "Rank": "92",
+  "Value": "543590",
+  "PercentOfTotal": "0.0023"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ce5"
+  },
+  "ParkName": "Lassen Volcanic NP",
+  "Rank": "93",
+  "Value": "542274",
+  "PercentOfTotal": "0.0023"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ce6"
+  },
+  "ParkName": "Catoctin Mountain Park",
+  "Rank": "94",
+  "Value": "539983",
+  "PercentOfTotal": "0.0023"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ce7"
+  },
+  "ParkName": "Gettysburg NMP",
+  "Rank": "95",
+  "Value": "536553",
+  "PercentOfTotal": "0.0023"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ce8"
+  },
+  "ParkName": "Cabrillo NM",
+  "Rank": "96",
+  "Value": "523878",
+  "PercentOfTotal": "0.0022"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ce9"
+  },
+  "ParkName": "Canyonlands NP",
+  "Rank": "97",
+  "Value": "493914",
+  "PercentOfTotal": "0.0021"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cea"
+  },
+  "ParkName": "Cape Lookout NS",
+  "Rank": "98",
+  "Value": "488331",
+  "PercentOfTotal": "0.0021"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ceb"
+  },
+  "ParkName": "Gateway Arch NP",
+  "Rank": "99",
+  "Value": "486021",
+  "PercentOfTotal": "0.0021"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cec"
+  },
+  "ParkName": "Great Sand Dunes NP & PRES",
+  "Rank": "100",
+  "Value": "461532",
+  "PercentOfTotal": "0.0019"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ced"
+  },
+  "ParkName": "Wind Cave NP",
+  "Rank": "101",
+  "Value": "448405",
+  "PercentOfTotal": "0.0019"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cee"
+  },
+  "ParkName": "Colorado NM",
+  "Rank": "102",
+  "Value": "435625",
+  "PercentOfTotal": "0.0018"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cef"
+  },
+  "ParkName": "San Juan Island NHP",
+  "Rank": "103",
+  "Value": "426335",
+  "PercentOfTotal": "0.0018"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cf0"
+  },
+  "ParkName": "Devils Tower NM",
+  "Rank": "104",
+  "Value": "423997",
+  "PercentOfTotal": "0.0018"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cf1"
+  },
+  "ParkName": "Pearl Harbor NMEM",
+  "Rank": "105",
+  "Value": "415542",
+  "PercentOfTotal": "0.0018"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cf2"
+  },
+  "ParkName": "White Sands NP",
+  "Rank": "106",
+  "Value": "415383",
+  "PercentOfTotal": "0.0018"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cf3"
+  },
+  "ParkName": "Kings Canyon NP",
+  "Rank": "107",
+  "Value": "415077",
+  "PercentOfTotal": "0.0018"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cf4"
+  },
+  "ParkName": "Fort Caroline NMEM",
+  "Rank": "108",
+  "Value": "404476",
+  "PercentOfTotal": "0.0017"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cf5"
+  },
+  "ParkName": "Biscayne NP",
+  "Rank": "109",
+  "Value": "402770",
+  "PercentOfTotal": "0.0017"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cf6"
+  },
+  "ParkName": "Big Bend NP",
+  "Rank": "110",
+  "Value": "393907",
+  "PercentOfTotal": "0.0017"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cf7"
+  },
+  "ParkName": "Shiloh NMP",
+  "Rank": "111",
+  "Value": "386883",
+  "PercentOfTotal": "0.0016"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cf8"
+  },
+  "ParkName": "Petrified Forest NP",
+  "Rank": "112",
+  "Value": "384483",
+  "PercentOfTotal": "0.0016"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cf9"
+  },
+  "ParkName": "President's Park",
+  "Rank": "113",
+  "Value": "369533",
+  "PercentOfTotal": "0.0016"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cfa"
+  },
+  "ParkName": "Fort Sumter and Fort Moultrie NHP",
+  "Rank": "114",
+  "Value": "365133",
+  "PercentOfTotal": "0.0015"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cfb"
+  },
+  "ParkName": "Fort Pulaski NM",
+  "Rank": "115",
+  "Value": "357970",
+  "PercentOfTotal": "0.0015"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cfc"
+  },
+  "ParkName": "San Juan NHS",
+  "Rank": "116",
+  "Value": "357100",
+  "PercentOfTotal": "0.0015"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cfd"
+  },
+  "ParkName": "Petroglyph NM",
+  "Rank": "117",
+  "Value": "356492",
+  "PercentOfTotal": "0.0015"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cfe"
+  },
+  "ParkName": "Black Canyon of the Gunnison NP",
+  "Rank": "118",
+  "Value": "341620",
+  "PercentOfTotal": "0.0014"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571cff"
+  },
+  "ParkName": "Paterson Great Falls NHP",
+  "Rank": "119",
+  "Value": "339768",
+  "PercentOfTotal": "0.0014"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d00"
+  },
+  "ParkName": "Prince William Forest Park",
+  "Rank": "120",
+  "Value": "333903",
+  "PercentOfTotal": "0.0014"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d01"
+  },
+  "ParkName": "Fort Donelson NB",
+  "Rank": "121",
+  "Value": "325496",
+  "PercentOfTotal": "0.0014"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d02"
+  },
+  "ParkName": "Muir Woods NM",
+  "Rank": "122",
+  "Value": "324232",
+  "PercentOfTotal": "0.0014"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d03"
+  },
+  "ParkName": "Haleakala NP",
+  "Rank": "123",
+  "Value": "319147",
+  "PercentOfTotal": "0.0013"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d04"
+  },
+  "ParkName": "War in the Pacific NHP",
+  "Rank": "124",
+  "Value": "318711",
+  "PercentOfTotal": "0.0013"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d05"
+  },
+  "ParkName": "River Raisin NBP",
+  "Rank": "125",
+  "Value": "309977",
+  "PercentOfTotal": "0.0013"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d06"
+  },
+  "ParkName": "Big Thicket NPRES",
+  "Rank": "126",
+  "Value": "309053",
+  "PercentOfTotal": "0.0013"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d07"
+  },
+  "ParkName": "Nez Perce NHP",
+  "Rank": "127",
+  "Value": "301473",
+  "PercentOfTotal": "0.0013"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d08"
+  },
+  "ParkName": "Stones River NB",
+  "Rank": "128",
+  "Value": "301270",
+  "PercentOfTotal": "0.0013"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d09"
+  },
+  "ParkName": "Mammoth Cave NP",
+  "Rank": "129",
+  "Value": "290392",
+  "PercentOfTotal": "0.0012"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d0a"
+  },
+  "ParkName": "Mesa Verde NP",
+  "Rank": "130",
+  "Value": "287477",
+  "PercentOfTotal": "0.0012"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d0b"
+  },
+  "ParkName": "Wilson's Creek NB",
+  "Rank": "131",
+  "Value": "287260",
+  "PercentOfTotal": "0.0012"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d0c"
+  },
+  "ParkName": "Wright Brothers NMEM",
+  "Rank": "132",
+  "Value": "277963",
+  "PercentOfTotal": "0.0012"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d0d"
+  },
+  "ParkName": "Boston NHP",
+  "Rank": "133",
+  "Value": "277170",
+  "PercentOfTotal": "0.0012"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d0e"
+  },
+  "ParkName": "Redwood NP",
+  "Rank": "134",
+  "Value": "265177",
+  "PercentOfTotal": "0.0011"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d0f"
+  },
+  "ParkName": "Dinosaur NM",
+  "Rank": "135",
+  "Value": "264145",
+  "PercentOfTotal": "0.0011"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d10"
+  },
+  "ParkName": "Voyageurs NP",
+  "Rank": "136",
+  "Value": "263091",
+  "PercentOfTotal": "0.0011"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d11"
+  },
+  "ParkName": "Morristown NHP",
+  "Rank": "137",
+  "Value": "262361",
+  "PercentOfTotal": "0.0011"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d12"
+  },
+  "ParkName": "Castillo de San Marcos NM",
+  "Rank": "138",
+  "Value": "251061",
+  "PercentOfTotal": "0.0011"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d13"
+  },
+  "ParkName": "Craters of the Moon NM & PRES",
+  "Rank": "139",
+  "Value": "250872",
+  "PercentOfTotal": "0.0011"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d14"
+  },
+  "ParkName": "Fire Island NS",
+  "Rank": "140",
+  "Value": "250449",
+  "PercentOfTotal": "0.0011"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d15"
+  },
+  "ParkName": "Upper Delaware S&RR",
+  "Rank": "141",
+  "Value": "250198",
+  "PercentOfTotal": "0.0011"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d16"
+  },
+  "ParkName": "Kings Mountain NMP",
+  "Rank": "142",
+  "Value": "249477",
+  "PercentOfTotal": "0.0011"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d17"
+  },
+  "ParkName": "Flight 93 NMEM",
+  "Rank": "143",
+  "Value": "244364",
+  "PercentOfTotal": "0.001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d18"
+  },
+  "ParkName": "Montezuma Castle NM",
+  "Rank": "144",
+  "Value": "242028",
+  "PercentOfTotal": "0.001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d19"
+  },
+  "ParkName": "Obed W&SR",
+  "Rank": "145",
+  "Value": "237837",
+  "PercentOfTotal": "0.001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d1a"
+  },
+  "ParkName": "Harpers Ferry NHP",
+  "Rank": "146",
+  "Value": "234473",
+  "PercentOfTotal": "0.001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d1b"
+  },
+  "ParkName": "Abraham Lincoln Birthplace NHP",
+  "Rank": "147",
+  "Value": "228141",
+  "PercentOfTotal": "0.001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d1c"
+  },
+  "ParkName": "Cowpens NB",
+  "Rank": "148",
+  "Value": "226903",
+  "PercentOfTotal": "0.001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d1d"
+  },
+  "ParkName": "Apostle Islands NL",
+  "Rank": "149",
+  "Value": "219009",
+  "PercentOfTotal": "0.0009"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d1e"
+  },
+  "ParkName": "Vanderbilt Mansion NHS",
+  "Rank": "150",
+  "Value": "217231",
+  "PercentOfTotal": "0.0009"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d1f"
+  },
+  "ParkName": "Bighorn Canyon NRA",
+  "Rank": "151",
+  "Value": "212295",
+  "PercentOfTotal": "0.0009"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d20"
+  },
+  "ParkName": "LBJ Memorial Grove on the Potomac",
+  "Rank": "152",
+  "Value": "211228",
+  "PercentOfTotal": "0.0009"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d21"
+  },
+  "ParkName": "Fort Frederica NM",
+  "Rank": "153",
+  "Value": "210892",
+  "PercentOfTotal": "0.0009"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d22"
+  },
+  "ParkName": "Mississippi NRRA",
+  "Rank": "154",
+  "Value": "204707",
+  "PercentOfTotal": "0.0009"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d23"
+  },
+  "ParkName": "Fort Necessity NB",
+  "Rank": "155",
+  "Value": "199801",
+  "PercentOfTotal": "0.0008"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d24"
+  },
+  "ParkName": "Martin Luther King, Jr. NHP",
+  "Rank": "156",
+  "Value": "198158",
+  "PercentOfTotal": "0.0008"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d25"
+  },
+  "ParkName": "De Soto NMEM",
+  "Rank": "157",
+  "Value": "196114",
+  "PercentOfTotal": "0.0008"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d26"
+  },
+  "ParkName": "Jean Lafitte NHP & PRES",
+  "Rank": "158",
+  "Value": "192601",
+  "PercentOfTotal": "0.0008"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d27"
+  },
+  "ParkName": "Organ Pipe Cactus NM",
+  "Rank": "159",
+  "Value": "191512",
+  "PercentOfTotal": "0.0008"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d28"
+  },
+  "ParkName": "Dwight D. Eisenhower MEM",
+  "Rank": "160",
+  "Value": "187328",
+  "PercentOfTotal": "0.0008"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d29"
+  },
+  "ParkName": "Guilford Courthouse NMP",
+  "Rank": "161",
+  "Value": "186020",
+  "PercentOfTotal": "0.0008"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d2a"
+  },
+  "ParkName": "Carlsbad Caverns NP",
+  "Rank": "162",
+  "Value": "183835",
+  "PercentOfTotal": "0.0008"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d2b"
+  },
+  "ParkName": "Scotts Bluff NM",
+  "Rank": "163",
+  "Value": "181900",
+  "PercentOfTotal": "0.0008"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d2c"
+  },
+  "ParkName": "Richmond NBP",
+  "Rank": "164",
+  "Value": "179598",
+  "PercentOfTotal": "0.0008"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d2d"
+  },
+  "ParkName": "Vicksburg NMP",
+  "Rank": "165",
+  "Value": "176236",
+  "PercentOfTotal": "0.0007"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d2e"
+  },
+  "ParkName": "Virgin Islands NP",
+  "Rank": "166",
+  "Value": "167540",
+  "PercentOfTotal": "0.0007"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d2f"
+  },
+  "ParkName": "Channel Islands NP",
+  "Rank": "167",
+  "Value": "167290",
+  "PercentOfTotal": "0.0007"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d30"
+  },
+  "ParkName": "Piscataway Park",
+  "Rank": "168",
+  "Value": "166484",
+  "PercentOfTotal": "0.0007"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d31"
+  },
+  "ParkName": "Pinnacles NP",
+  "Rank": "169",
+  "Value": "165740",
+  "PercentOfTotal": "0.0007"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d32"
+  },
+  "ParkName": "Fort McHenry NM & HS",
+  "Rank": "170",
+  "Value": "163224",
+  "PercentOfTotal": "0.0007"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d33"
+  },
+  "ParkName": "Lewis & Clark NHP",
+  "Rank": "171",
+  "Value": "161230",
+  "PercentOfTotal": "0.0007"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d34"
+  },
+  "ParkName": "Fort Washington Park",
+  "Rank": "172",
+  "Value": "160289",
+  "PercentOfTotal": "0.0007"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d35"
+  },
+  "ParkName": "Coronado NMEM",
+  "Rank": "173",
+  "Value": "156199",
+  "PercentOfTotal": "0.0007"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d36"
+  },
+  "ParkName": "Monocacy NB",
+  "Rank": "174",
+  "Value": "155116",
+  "PercentOfTotal": "0.0007"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d37"
+  },
+  "ParkName": "Theodore Roosevelt Island",
+  "Rank": "175",
+  "Value": "153598",
+  "PercentOfTotal": "0.0006"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d38"
+  },
+  "ParkName": "Fort Raleigh NHS",
+  "Rank": "176",
+  "Value": "153519",
+  "PercentOfTotal": "0.0006"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d39"
+  },
+  "ParkName": "Petersburg NB",
+  "Rank": "177",
+  "Value": "152878",
+  "PercentOfTotal": "0.0006"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d3a"
+  },
+  "ParkName": "Guadalupe Mountains NP",
+  "Rank": "178",
+  "Value": "151256",
+  "PercentOfTotal": "0.0006"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d3b"
+  },
+  "ParkName": "Wupatki NM",
+  "Rank": "179",
+  "Value": "146074",
+  "PercentOfTotal": "0.0006"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d3c"
+  },
+  "ParkName": "El Malpais NM",
+  "Rank": "180",
+  "Value": "139336",
+  "PercentOfTotal": "0.0006"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d3d"
+  },
+  "ParkName": "Allegheny Portage Railroad NHS",
+  "Rank": "181",
+  "Value": "136029",
+  "PercentOfTotal": "0.0006"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d3e"
+  },
+  "ParkName": "Kaloko Honokohau NHP",
+  "Rank": "182",
+  "Value": "133877",
+  "PercentOfTotal": "0.0006"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d3f"
+  },
+  "ParkName": "Pu'uhonua o Honaunau NHP",
+  "Rank": "183",
+  "Value": "130845",
+  "PercentOfTotal": "0.0006"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d40"
+  },
+  "ParkName": "Salem Maritime NHS",
+  "Rank": "184",
+  "Value": "125554",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d41"
+  },
+  "ParkName": "Great Basin NP",
+  "Rank": "185",
+  "Value": "120248",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d42"
+  },
+  "ParkName": "Congaree NP",
+  "Rank": "186",
+  "Value": "119306",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d43"
+  },
+  "ParkName": "Kenai Fjords NP",
+  "Rank": "187",
+  "Value": "115882",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d44"
+  },
+  "ParkName": "Sitka NHP",
+  "Rank": "188",
+  "Value": "115494",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d45"
+  },
+  "ParkName": "White House",
+  "Rank": "189",
+  "Value": "114519",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d46"
+  },
+  "ParkName": "Missouri NRR",
+  "Rank": "190",
+  "Value": "111602",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d47"
+  },
+  "ParkName": "Lava Beds NM",
+  "Rank": "191",
+  "Value": "111258",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d48"
+  },
+  "ParkName": "Lincoln Boyhood NMEM",
+  "Rank": "192",
+  "Value": "110692",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d49"
+  },
+  "ParkName": "City of Rocks NRES",
+  "Rank": "193",
+  "Value": "110203",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d4a"
+  },
+  "ParkName": "Gauley River NRA",
+  "Rank": "194",
+  "Value": "109378",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d4b"
+  },
+  "ParkName": "Devils Postpile NM",
+  "Rank": "195",
+  "Value": "108590",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d4c"
+  },
+  "ParkName": "Walnut Canyon NM",
+  "Rank": "196",
+  "Value": "107422",
+  "PercentOfTotal": "0.0005"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d4d"
+  },
+  "ParkName": "Sagamore Hill NHS",
+  "Rank": "197",
+  "Value": "105289",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d4e"
+  },
+  "ParkName": "Governors Island NM",
+  "Rank": "198",
+  "Value": "102915",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d4f"
+  },
+  "ParkName": "Niobrara NSR",
+  "Rank": "199",
+  "Value": "102766",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d50"
+  },
+  "ParkName": "Minuteman Missile NHS",
+  "Rank": "200",
+  "Value": "98908",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d51"
+  },
+  "ParkName": "Palo Alto Battlefield NHP",
+  "Rank": "201",
+  "Value": "97860",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d52"
+  },
+  "ParkName": "Little Bighorn Battlefield NM",
+  "Rank": "202",
+  "Value": "97461",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d53"
+  },
+  "ParkName": "Ninety Six NHS",
+  "Rank": "203",
+  "Value": "95418",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d54"
+  },
+  "ParkName": "Bandelier NM",
+  "Rank": "204",
+  "Value": "94948",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d55"
+  },
+  "ParkName": "Timpanogos Cave NM",
+  "Rank": "205",
+  "Value": "92481",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d56"
+  },
+  "ParkName": "Boston African American NHS",
+  "Rank": "206",
+  "Value": "89616",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d57"
+  },
+  "ParkName": "John Day Fossil Beds NM",
+  "Rank": "207",
+  "Value": "88571",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d58"
+  },
+  "ParkName": "Johnstown Flood NMEM",
+  "Rank": "208",
+  "Value": "87805",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d59"
+  },
+  "ParkName": "Antietam NB",
+  "Rank": "209",
+  "Value": "85884",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d5a"
+  },
+  "ParkName": "Sunset Crater Volcano NM",
+  "Rank": "210",
+  "Value": "83669",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d5b"
+  },
+  "ParkName": "Washington Monument",
+  "Rank": "211",
+  "Value": "83585",
+  "PercentOfTotal": "0.0004"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d5c"
+  },
+  "ParkName": "Pea Ridge NMP",
+  "Rank": "212",
+  "Value": "80455",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d5d"
+  },
+  "ParkName": "Tuzigoot NM",
+  "Rank": "213",
+  "Value": "78358",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d5e"
+  },
+  "ParkName": "Canyon de Chelly NM",
+  "Rank": "214",
+  "Value": "76752",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d5f"
+  },
+  "ParkName": "Lyndon B. Johnson NHP",
+  "Rank": "215",
+  "Value": "75322",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d60"
+  },
+  "ParkName": "Saratoga NHP",
+  "Rank": "216",
+  "Value": "73825",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d61"
+  },
+  "ParkName": "Boston Harbor Islands NRA",
+  "Rank": "217",
+  "Value": "71991",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d62"
+  },
+  "ParkName": "Little Rock Central High School NHS",
+  "Rank": "218",
+  "Value": "68497",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d63"
+  },
+  "ParkName": "Fort Smith NHS",
+  "Rank": "219",
+  "Value": "67574",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d64"
+  },
+  "ParkName": "Grand Portage NM",
+  "Rank": "220",
+  "Value": "66426",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d65"
+  },
+  "ParkName": "Manzanar NHS",
+  "Rank": "221",
+  "Value": "65289",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d66"
+  },
+  "ParkName": "Andersonville NHS",
+  "Rank": "222",
+  "Value": "63799",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d67"
+  },
+  "ParkName": "Capulin Volcano NM",
+  "Rank": "223",
+  "Value": "63335",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d68"
+  },
+  "ParkName": "Ocmulgee Mounds NHP",
+  "Rank": "224",
+  "Value": "61303",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d69"
+  },
+  "ParkName": "Florissant Fossil Beds NM",
+  "Rank": "225",
+  "Value": "61081",
+  "PercentOfTotal": "0.0003"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d6a"
+  },
+  "ParkName": "Moores Creek NB",
+  "Rank": "226",
+  "Value": "58786",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d6b"
+  },
+  "ParkName": "Natchez NHP",
+  "Rank": "227",
+  "Value": "57646",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d6c"
+  },
+  "ParkName": "Appomattox Court House NHP",
+  "Rank": "228",
+  "Value": "57513",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d6d"
+  },
+  "ParkName": "Herbert Hoover NHS",
+  "Rank": "229",
+  "Value": "56270",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d6e"
+  },
+  "ParkName": "George Rogers Clark NHP",
+  "Rank": "230",
+  "Value": "56108",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d6f"
+  },
+  "ParkName": "Ford's Theatre NHS",
+  "Rank": "231",
+  "Value": "56058",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d70"
+  },
+  "ParkName": "Denali NP & PRES",
+  "Rank": "232",
+  "Value": "54850",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d71"
+  },
+  "ParkName": "Lowell NHP",
+  "Rank": "233",
+  "Value": "53954",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d72"
+  },
+  "ParkName": "Golden Spike NHP",
+  "Rank": "234",
+  "Value": "53106",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d73"
+  },
+  "ParkName": "Natural Bridges NM",
+  "Rank": "235",
+  "Value": "52542",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d74"
+  },
+  "ParkName": "Katmai NP & PRES",
+  "Rank": "236",
+  "Value": "51511",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d75"
+  },
+  "ParkName": "Dry Tortugas NP",
+  "Rank": "237",
+  "Value": "48543",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d76"
+  },
+  "ParkName": "Waco Mammoth NM",
+  "Rank": "238",
+  "Value": "46457",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d77"
+  },
+  "ParkName": "Andrew Johnson NHS",
+  "Rank": "239",
+  "Value": "46092",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d78"
+  },
+  "ParkName": "Chiricahua NM",
+  "Rank": "240",
+  "Value": "44794",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d79"
+  },
+  "ParkName": "Casa Grande Ruins NM",
+  "Rank": "241",
+  "Value": "44269",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d7a"
+  },
+  "ParkName": "Carl Sandburg Home NHS",
+  "Rank": "242",
+  "Value": "42672",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d7b"
+  },
+  "ParkName": "George Washington Birthplace NM",
+  "Rank": "243",
+  "Value": "41970",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d7c"
+  },
+  "ParkName": "Katahdin Woods and Waters NM",
+  "Rank": "244",
+  "Value": "41432",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d7d"
+  },
+  "ParkName": "Homestead NM of America",
+  "Rank": "245",
+  "Value": "40897",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d7e"
+  },
+  "ParkName": "Perry's Victory & Intl. Peace MEM",
+  "Rank": "246",
+  "Value": "40469",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d7f"
+  },
+  "ParkName": "Home of Franklin D. Roosevelt NHS",
+  "Rank": "247",
+  "Value": "40091",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d80"
+  },
+  "ParkName": "Dayton Aviation Heritage NHP",
+  "Rank": "248",
+  "Value": "39851",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d81"
+  },
+  "ParkName": "Pipestone NM",
+  "Rank": "249",
+  "Value": "38229",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d82"
+  },
+  "ParkName": "Cumberland Island NS",
+  "Rank": "250",
+  "Value": "37295",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d83"
+  },
+  "ParkName": "Pecos NHP",
+  "Rank": "251",
+  "Value": "36695",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d84"
+  },
+  "ParkName": "El Morro NM",
+  "Rank": "252",
+  "Value": "36328",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d85"
+  },
+  "ParkName": "Big Hole NB",
+  "Rank": "253",
+  "Value": "36234",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d86"
+  },
+  "ParkName": "Fort Davis NHS",
+  "Rank": "254",
+  "Value": "35920",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d87"
+  },
+  "ParkName": "Jewel Cave NM",
+  "Rank": "255",
+  "Value": "35878",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d88"
+  },
+  "ParkName": "Hopewell Culture NHP",
+  "Rank": "256",
+  "Value": "35710",
+  "PercentOfTotal": "0.0002"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d89"
+  },
+  "ParkName": "Whitman Mission NHS",
+  "Rank": "257",
+  "Value": "34933",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d8a"
+  },
+  "ParkName": "Hopewell Furnace NHS",
+  "Rank": "258",
+  "Value": "34288",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d8b"
+  },
+  "ParkName": "John Muir NHS",
+  "Rank": "259",
+  "Value": "33603",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d8c"
+  },
+  "ParkName": "Gila Cliff Dwellings NM",
+  "Rank": "260",
+  "Value": "31645",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d8d"
+  },
+  "ParkName": "North Cascades NP",
+  "Rank": "261",
+  "Value": "30885",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d8e"
+  },
+  "ParkName": "Lake Chelan NRA",
+  "Rank": "262",
+  "Value": "30598",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d8f"
+  },
+  "ParkName": "Valles Caldera NPRES",
+  "Rank": "263",
+  "Value": "30434",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d90"
+  },
+  "ParkName": "Aztec Ruins NM",
+  "Rank": "264",
+  "Value": "30223",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d91"
+  },
+  "ParkName": "Wolf Trap NP for the Performing Arts",
+  "Rank": "265",
+  "Value": "30073",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d92"
+  },
+  "ParkName": "Longfellow House Washington's HQ NHS",
+  "Rank": "266",
+  "Value": "30014",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d93"
+  },
+  "ParkName": "Arkansas Post NMEM",
+  "Rank": "267",
+  "Value": "29653",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d94"
+  },
+  "ParkName": "Tallgrass Prairie NPRES",
+  "Rank": "268",
+  "Value": "29009",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d95"
+  },
+  "ParkName": "Horseshoe Bend NMP",
+  "Rank": "269",
+  "Value": "28600",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d96"
+  },
+  "ParkName": "Greenbelt Park",
+  "Rank": "270",
+  "Value": "28319",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d97"
+  },
+  "ParkName": "Lincoln Home NHS",
+  "Rank": "271",
+  "Value": "27744",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d98"
+  },
+  "ParkName": "Steamtown NHS",
+  "Rank": "272",
+  "Value": "27322",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d99"
+  },
+  "ParkName": "Salinas Pueblo Missions NM",
+  "Rank": "273",
+  "Value": "26982",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d9a"
+  },
+  "ParkName": "George Washington Carver NM",
+  "Rank": "274",
+  "Value": "26569",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d9b"
+  },
+  "ParkName": "Fort Laramie NHS",
+  "Rank": "275",
+  "Value": "26066",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d9c"
+  },
+  "ParkName": "Weir Farm NHS",
+  "Rank": "276",
+  "Value": "25430",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d9d"
+  },
+  "ParkName": "Bluestone NSR",
+  "Rank": "277",
+  "Value": "25207",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d9e"
+  },
+  "ParkName": "Tonto NM",
+  "Rank": "278",
+  "Value": "24756",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571d9f"
+  },
+  "ParkName": "General Grant NMEM",
+  "Rank": "279",
+  "Value": "24475",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571da0"
+  },
+  "ParkName": "Fort Stanwix NM",
+  "Rank": "280",
+  "Value": "24134",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571da1"
+  },
+  "ParkName": "Pu'ukohola Heiau NHS",
+  "Rank": "281",
+  "Value": "23970",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571da2"
+  },
+  "ParkName": "Christiansted NHS",
+  "Rank": "282",
+  "Value": "23816",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571da3"
+  },
+  "ParkName": "Tumacacori NHP",
+  "Rank": "283",
+  "Value": "23726",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571da4"
+  },
+  "ParkName": "Charles Pinckney NHS",
+  "Rank": "284",
+  "Value": "23723",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571da5"
+  },
+  "ParkName": "Marsh-Billings-Rockefeller NHP",
+  "Rank": "285",
+  "Value": "23538",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571da6"
+  },
+  "ParkName": "Hamilton Grange NMEM",
+  "Rank": "286",
+  "Value": "23015",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571da7"
+  },
+  "ParkName": "Oregon Caves NM & PRES",
+  "Rank": "287",
+  "Value": "22789",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571da8"
+  },
+  "ParkName": "Booker T. Washington NM",
+  "Rank": "288",
+  "Value": "22482",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571da9"
+  },
+  "ParkName": "Fort Larned NHS",
+  "Rank": "289",
+  "Value": "21895",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571daa"
+  },
+  "ParkName": "Hovenweep NM",
+  "Rank": "290",
+  "Value": "19856",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dab"
+  },
+  "ParkName": "Friendship Hill NHS",
+  "Rank": "291",
+  "Value": "19462",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dac"
+  },
+  "ParkName": "Chamizal NMEM",
+  "Rank": "292",
+  "Value": "19180",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dad"
+  },
+  "ParkName": "New Bedford Whaling NHP",
+  "Rank": "293",
+  "Value": "18243",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dae"
+  },
+  "ParkName": "Effigy Mounds NM",
+  "Rank": "294",
+  "Value": "18225",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571daf"
+  },
+  "ParkName": "Cane River Creole NHP",
+  "Rank": "295",
+  "Value": "17430",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571db0"
+  },
+  "ParkName": "Saugus Iron Works NHS",
+  "Rank": "296",
+  "Value": "16928",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571db1"
+  },
+  "ParkName": "Wrangell-St. Elias NP & PRES",
+  "Rank": "297",
+  "Value": "16655",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571db2"
+  },
+  "ParkName": "Buck Island Reef NM",
+  "Rank": "298",
+  "Value": "16032",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571db3"
+  },
+  "ParkName": "Pennsylvania Avenue NHS",
+  "Rank": "299",
+  "Value": "15898",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571db4"
+  },
+  "ParkName": "Kalaupapa NHP",
+  "Rank": "300",
+  "Value": "15847",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571db5"
+  },
+  "ParkName": "Grant-Kohrs Ranch NHS",
+  "Rank": "301",
+  "Value": "15328",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571db6"
+  },
+  "ParkName": "Ulysses S. Grant NHS",
+  "Rank": "302",
+  "Value": "15236",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571db7"
+  },
+  "ParkName": "James A. Garfield NHS",
+  "Rank": "303",
+  "Value": "14797",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571db8"
+  },
+  "ParkName": "Fort Scott NHS",
+  "Rank": "304",
+  "Value": "14652",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571db9"
+  },
+  "ParkName": "Eugene O'Neill NHS",
+  "Rank": "305",
+  "Value": "14423",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dba"
+  },
+  "ParkName": "Jimmy Carter NHS",
+  "Rank": "306",
+  "Value": "14267",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dbb"
+  },
+  "ParkName": "Hagerman Fossil Beds NM",
+  "Rank": "307",
+  "Value": "14113",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dbc"
+  },
+  "ParkName": "Roger Williams NMEM",
+  "Rank": "308",
+  "Value": "13971",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dbd"
+  },
+  "ParkName": "Federal Hall NMEM",
+  "Rank": "309",
+  "Value": "13822",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dbe"
+  },
+  "ParkName": "Saint-Gaudens NHP",
+  "Rank": "310",
+  "Value": "13286",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dbf"
+  },
+  "ParkName": "Fossil Butte NM",
+  "Rank": "311",
+  "Value": "13176",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dc0"
+  },
+  "ParkName": "Klondike Gold Rush NHP Seattle",
+  "Rank": "312",
+  "Value": "13003",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dc1"
+  },
+  "ParkName": "Noatak NPRES",
+  "Rank": "313",
+  "Value": "12533",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dc2"
+  },
+  "ParkName": "Washita Battlefield NHS",
+  "Rank": "314",
+  "Value": "12520",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dc3"
+  },
+  "ParkName": "Bent's Old Fort NHS",
+  "Rank": "315",
+  "Value": "12438",
+  "PercentOfTotal": "0.0001"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dc4"
+  },
+  "ParkName": "Martin Van Buren NHS",
+  "Rank": "316",
+  "Value": "11480",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dc5"
+  },
+  "ParkName": "Hubbell Trading Post NHS",
+  "Rank": "317",
+  "Value": "11407",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dc6"
+  },
+  "ParkName": "Manhattan Project NHP",
+  "Rank": "318",
+  "Value": "11392",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dc7"
+  },
+  "ParkName": "Cape Krusenstern NM",
+  "Rank": "319",
+  "Value": "11369",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dc8"
+  },
+  "ParkName": "Kobuk Valley NP",
+  "Rank": "320",
+  "Value": "11185",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dc9"
+  },
+  "ParkName": "William Howard Taft NHS",
+  "Rank": "321",
+  "Value": "11100",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dca"
+  },
+  "ParkName": "Frederick Douglass NHS",
+  "Rank": "322",
+  "Value": "10969",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dcb"
+  },
+  "ParkName": "Pipe Spring NM",
+  "Rank": "323",
+  "Value": "10623",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dcc"
+  },
+  "ParkName": "New Orleans Jazz NHP",
+  "Rank": "324",
+  "Value": "9640",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dcd"
+  },
+  "ParkName": "Eleanor Roosevelt NHS",
+  "Rank": "325",
+  "Value": "9575",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dce"
+  },
+  "ParkName": "Rosie The Riveter WWII Home Front NHP",
+  "Rank": "326",
+  "Value": "9528",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dcf"
+  },
+  "ParkName": "Harry S Truman NHS",
+  "Rank": "327",
+  "Value": "9446",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dd0"
+  },
+  "ParkName": "Hampton NHS",
+  "Rank": "328",
+  "Value": "8728",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dd1"
+  },
+  "ParkName": "Agate Fossil Beds NM",
+  "Rank": "329",
+  "Value": "8722",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dd2"
+  },
+  "ParkName": "Russell Cave NM",
+  "Rank": "330",
+  "Value": "8462",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dd3"
+  },
+  "ParkName": "Women's Rights NHP",
+  "Rank": "331",
+  "Value": "8237",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dd4"
+  },
+  "ParkName": "Chaco Culture NHP",
+  "Rank": "332",
+  "Value": "8231",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dd5"
+  },
+  "ParkName": "Eisenhower NHS",
+  "Rank": "333",
+  "Value": "7926",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dd6"
+  },
+  "ParkName": "African Burial Ground NM",
+  "Rank": "334",
+  "Value": "7908",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dd7"
+  },
+  "ParkName": "Thomas Edison NHP",
+  "Rank": "335",
+  "Value": "7605",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dd8"
+  },
+  "ParkName": "Adams NHP",
+  "Rank": "336",
+  "Value": "6937",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dd9"
+  },
+  "ParkName": "Saint Croix Island IHS",
+  "Rank": "337",
+  "Value": "6914",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dda"
+  },
+  "ParkName": "Tuskegee Airmen NHS",
+  "Rank": "338",
+  "Value": "6843",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ddb"
+  },
+  "ParkName": "Minidoka NHS",
+  "Rank": "339",
+  "Value": "6747",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ddc"
+  },
+  "ParkName": "Isle Royale NP",
+  "Rank": "340",
+  "Value": "6493",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ddd"
+  },
+  "ParkName": "Fort Bowie NHS",
+  "Rank": "341",
+  "Value": "6456",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dde"
+  },
+  "ParkName": "Saint Paul's Church NHS",
+  "Rank": "342",
+  "Value": "5968",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ddf"
+  },
+  "ParkName": "Glacier Bay NP & PRES",
+  "Rank": "343",
+  "Value": "5748",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571de0"
+  },
+  "ParkName": "Cesar E. Chavez NM",
+  "Rank": "344",
+  "Value": "5668",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571de1"
+  },
+  "ParkName": "Fort Union NM",
+  "Rank": "345",
+  "Value": "5334",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571de2"
+  },
+  "ParkName": "Knife River Indian Villages NHS",
+  "Rank": "346",
+  "Value": "5263",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571de3"
+  },
+  "ParkName": "Fort Union Trading Post NHS",
+  "Rank": "347",
+  "Value": "5225",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571de4"
+  },
+  "ParkName": "Theodore Roosevelt Inaugural NHS",
+  "Rank": "348",
+  "Value": "5098",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571de5"
+  },
+  "ParkName": "Theodore Roosevelt Birthplace NHS",
+  "Rank": "349",
+  "Value": "4984",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571de6"
+  },
+  "ParkName": "Lake Clark NP & PRES",
+  "Rank": "350",
+  "Value": "4948",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571de7"
+  },
+  "ParkName": "National Park of American Samoa",
+  "Rank": "351",
+  "Value": "4819",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571de8"
+  },
+  "ParkName": "Tuskegee Institute NHS",
+  "Rank": "352",
+  "Value": "4737",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571de9"
+  },
+  "ParkName": "Alibates Flint Quarries NM",
+  "Rank": "353",
+  "Value": "4269",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dea"
+  },
+  "ParkName": "Sand Creek Massacre NHS",
+  "Rank": "354",
+  "Value": "4215",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571deb"
+  },
+  "ParkName": "Brown v. Board of Education NHS",
+  "Rank": "355",
+  "Value": "4064",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dec"
+  },
+  "ParkName": "President W.J. Clinton Birthplace Home NHS",
+  "Rank": "356",
+  "Value": "4055",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571ded"
+  },
+  "ParkName": "Navajo NM",
+  "Rank": "357",
+  "Value": "3985",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dee"
+  },
+  "ParkName": "Rainbow Bridge NM",
+  "Rank": "358",
+  "Value": "3573",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571def"
+  },
+  "ParkName": "Gates of the Arctic NP & PRES",
+  "Rank": "359",
+  "Value": "2872",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571df0"
+  },
+  "ParkName": "Salt River Bay NHP & Ecological Pres",
+  "Rank": "360",
+  "Value": "2704",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571df1"
+  },
+  "ParkName": "Bering Land Bridge NPRES",
+  "Rank": "361",
+  "Value": "2642",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571df2"
+  },
+  "ParkName": "Frederick Law Olmsted NHS",
+  "Rank": "362",
+  "Value": "2570",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571df3"
+  },
+  "ParkName": "Belmont-Paul Women's Equality NM",
+  "Rank": "363",
+  "Value": "2535",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571df4"
+  },
+  "ParkName": "Charles Young Buffalo Soldiers NM",
+  "Rank": "364",
+  "Value": "2461",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571df5"
+  },
+  "ParkName": "Edgar Allan Poe NHS",
+  "Rank": "365",
+  "Value": "2418",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571df6"
+  },
+  "ParkName": "First Ladies NHS",
+  "Rank": "366",
+  "Value": "2406",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571df7"
+  },
+  "ParkName": "Thomas Stone NHS",
+  "Rank": "367",
+  "Value": "2351",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571df8"
+  },
+  "ParkName": "Keweenaw NHP",
+  "Rank": "368",
+  "Value": "2130",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571df9"
+  },
+  "ParkName": "Maggie L. Walker NHS",
+  "Rank": "369",
+  "Value": "1849",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dfa"
+  },
+  "ParkName": "Springfield Armory NHS",
+  "Rank": "370",
+  "Value": "1032",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dfb"
+  },
+  "ParkName": "Yukon-Charley Rivers NPRES",
+  "Rank": "371",
+  "Value": "666",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dfc"
+  },
+  "ParkName": "Mary McLeod Bethune Council House NHS",
+  "Rank": "372",
+  "Value": "578",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dfd"
+  },
+  "ParkName": "Carter G. Woodson Home NHS",
+  "Rank": "373",
+  "Value": "548",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dfe"
+  },
+  "ParkName": "John F. Kennedy NHS",
+  "Rank": "374",
+  "Value": "451",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571dff"
+  },
+  "ParkName": "Clara Barton NHS",
+  "Rank": "375",
+  "Value": "450",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571e00"
+  },
+  "ParkName": "Klondike Gold Rush NHP Alaska",
+  "Rank": "376",
+  "Value": "297",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571e01"
+  },
+  "ParkName": "Nicodemus NHS",
+  "Rank": "377",
+  "Value": "262",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571e02"
+  },
+  "ParkName": "Rio Grande W&SR",
+  "Rank": "378",
+  "Value": "126",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571e03"
+  },
+  "ParkName": "Port Chicago Naval Magazine NMEM",
+  "Rank": "379",
+  "Value": "70",
+  "PercentOfTotal": "0"
+},{
+  "_id": {
+    "$oid": "614636afd7bd5749f1571e04"
+  },
+  "ParkName": "Aniakchak NM & PRES",
+  "Rank": "380",
+  "Value": "36",
+  "PercentOfTotal": "0"
+}]
