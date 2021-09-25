@@ -6,9 +6,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://d3js.org/d3.v5.min.js"></script> 
-    <link rel="stylesheet" type="text/css" href="../static/css/style_visitation_v19.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/style_park_details_v8.css">
 </head>
-<body stype = "overflow: hidden">
+<body style = "overflow: hidden">
     
     <!-- need to edit navbar-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light mask gradient-custom">
@@ -36,113 +36,105 @@
             <!-- </div> -->
         </div>
     </nav>
+  
+    <style> 
+        body {
+          background-image: url({{park.images_url[0]}});
+        
+        }
+        </style>
+    <!--img src={{park.images_url[0]}} --> 
+    
 
     <div class ="container-fluid fixed-right" style= "background-color: rgba(0,0,0,.6);overflow:scroll; margin-top: 50px; width: 1300px; height: 700px; margin-left: 440px; border:1px solid #cecece">
         <div class="row">
             <div class="col-lg-12 justify-content-center align-items-center text-center">      
                 <br>
-                <h3>VISITATION DATA</h3>
+                <h3>{{park.fullName}}</h3>
                 <br>
             </div>
 
         </div>
+    
+       
         <div class="row">
             <div class="col-lg-12 justify-content-center align-items-center text-center">      
        
-                <h5>Visitation in Parks US</h5>
-               
-            </div>
+                <h5>{{park.description}}</h5>
+               <br>
+               <br>
 
-       
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                  <h5><strong>Hours of operation:</strong></h5>
+                  <!-- Expolore the way how to fix sorting of the days coming from our database -->
+                  
+                    {% for days, hours in park.standardHours[0].items()%}
+                    <h6>{{days}}:{{hours}}</h6> 
+                    {% endfor %} 
+                </div>
+                
+                <div class="col-md-8">
+                  <h5><strong>Things To Do: </strong></h5>
+                  {% for name in park.activity_names %}
+                  {{name}}, 
+                  {% endfor %}
+                  </h5>
+                </div>
+              </div>
+            <div class="row">
+                <div class="col-lg-12 justify-content-center align-items-center text-center">      
+           
+
+                   <br>
+                   <br>
+    
+                </div>
+            
+
+                <div class="row">
+                        <div class="col-lg-12 justify-content-center align-items-center text-center">      
+                       
+                               
+                    </div>
+
+                
+                    <div class="row">
+                        <div class="col-lg-12 justify-content-center align-items-center text-center">      
+                       
+
+                    </div>
+        
+                    <div class="row">
+                        <div class="col-lg-12 justify-content-center align-items-center text-center">      
+                       
+                            <!-- <h5>Entrance fees: {{park.entranceFees_cost}}  <br>
+                                    {{park.entranceFees_description}}
+                            <-->   
+                                
+                                </h5>
+                               <br>
+                               <br>
+                    </div>
+        
        <div class="col-lg-12 justify-content-center align-items-center text-center">
         <div class="col-lg-12 text-center">      
         
-               <p>
-                <br>  
-                <div id="plot"></div>
-                <br>
-                <br></p> 
-
+            <p class="summary_text"> 
+            </p>
+            
+            <p>More information about park at
+                <b><a href={{park.url}} target="_blank"></b> park website</a>
+            </p> 
+            <br>
+            <br>
+            <h5>Main address: {{park.addresses_street[0]}} | {{park.addresses_city[0]}} | {{park.addresses_stateCode[0]}}   </h5>
+            <br>
+            <br>
         </div>
 
-        <div class="row justify-content-center align-items-center text-center">
-            <div class="col-lg-3 text-center">      
-            
-               
-            </div> 
-            <div class="col-lg-3 text-center">      
-            
-                
-                
-        </div> 
-       
-     
-
-        <div class="row">
-            <div class="col-lg-12 justify-content-center align-items-center text-center">      
-                <br>
-                <br>
-                <h5>The Most Common Activities in Parks US</h5>
-               
-            </div>
-
-       
-       <div class="col-lg-12 justify-content-center align-items-center text-center">
-        <div class="col-lg-12 text-center">      
-        
-               <p>
-                <br>  
-                <div id="pie"></div>
-                <br>
-                <br></p> 
-
-        </div>
-
-        <div class="row justify-content-center align-items-center">
-            <div class="col-lg-3 text-center">      
-            
-               
-            </div> 
-            <div class="col-lg-3 text-center">      
-            
-                
-            </div>
-
-            
-        <div class="row">
-            <div class="col-lg-12 justify-content-center align-items-center text-center">      
-                <br>
-                <br>
-                <h5>The Least Common Activities in Parks US</h5>
-               
-            </div>
-
-       
-       <div class="col-lg-12 justify-content-center align-items-center text-center">
-        <div class="col-lg-12 text-center">      
-        
-               <p>
-                <br>  
-                <div id="pie1"></div>
-                <br>
-                <br></p> 
-
-        </div>
-
-        <div class="row justify-content-center align-items-center">
-            <div class="col-lg-3 text-center">      
-            
-               
-            </div> 
-            <div class="col-lg-3 text-center">      
-            
-               
-            </div>
     </div>
-
-  
-       
-      
 
 
     <script src="/static/js/plots.js"></script>  

@@ -1,15 +1,4 @@
-anyio==3.3.0
-appdirs==1.4.4
-appnope==0.1.2
-argon2-cffi==20.1.0
-attrs==21.2.0
-Babel==2.9.1
-backcall==0.2.0
-beautifulsoup4==4.9.3
-bleach==4.0.0
-census==0.8.17
-census-data-aggregator==0.0.6
-CensusData==1.13
+
 certifi==2021.5.30
 cffi==1.14.6
 chardet==4.0.0
@@ -29,7 +18,6 @@ Flask==2.0.1
 Flask-PyMongo==2.3.0
 Flask-SQLAlchemy==2.5.1
 greenlet==1.1.1
-gunicorn==20.1.0
 idna==2.10
 ipykernel==6.2.0
 ipython==7.26.0

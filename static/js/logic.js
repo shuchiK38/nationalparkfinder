@@ -21,33 +21,43 @@ function createMap(data) {
   };
  
   var allParks =[];
-
+  var natParks = [];
  
   blueMarker = L.ExtraMarkers.icon({
     icon: 'fa-coffee',
-    markerColor: 'blue',
+    markerColor: '#0066CC',
     shape: 'circle',
-    prefix: 'fa'
+    prefix: 'fa',
+    svg :true 
   });
+
+
   // Looping through the parks, adding marker
   for (var i = 0; i < data.length; i++) {
     var area = data[i];
     allParks.push(
-    L.marker([area.latitude, area.longitude], {icon: blueMarker, opacity:0.5})
-      .bindPopup(`<h6><a href= "parks/${area.parkCode}">${area.fullName}</a></h6> <hr> <b> ${area.designation} ${area.states}</b>`)
-    )};
+      L.marker([area.latitude, area.longitude], {icon: blueMarker, opacity:0.5})
+      .bindPopup(`<h6><a href= "parks/${area.parkCode}">${area.fullName}</a></h6> <hr> <b> ${area.designation}, ${area.states}</b>`))
+
+    if ("National Park" == area.designation) {
+      natParks.push( 
+        L.marker([area.latitude, area.longitude],  {zIndexOffset:500})
+        .bindPopup(`<h6><a href= "parks/${area.parkCode}">${area.fullName}</a></h6> <hr><b>${area.designation}, ${area.states}</b>`))
+    }
+  };
 
   var allParksLayer = L.layerGroup(allParks);
+  var natParksLayer = L.layerGroup(natParks);
   var overlayMaps = {
-  "Parks Location": allParksLayer,
-
+      "Parks Location": allParksLayer,
+      "National Parks": natParksLayer,
    };
   
   /// Create a map object.
   myMap = L.map("map", {
   center: [37.09, -95.71],
   zoom: 5,
-  layers: [streetmap, topo, allParksLayer]
+  layers: [streetmap, topo, allParksLayer, natParksLayer]
   });
 
  
@@ -56,12 +66,12 @@ function createMap(data) {
   }).addTo(myMap);
 
   redMarker = L.ExtraMarkers.icon({
-    icon: 'fa-coffee',
-    markerColor: 'white',
-    shape: 'star',
-    prefix: 'fa'
-  });
-
+    
+      shape: 'square',
+      markerColor: 'red',
+      icon: 'glyphicon-cog',
+      
+    });
 }
 
 
