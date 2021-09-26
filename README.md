@@ -1,6 +1,6 @@
 # travel-project 
 # App Functional at : https://nationalpark-app.herokuapp.com
-#App Deployment :#https://travelparkfinder.herokuapp.com
+#App Deployment : https://travelparkfinder.herokuapp.com
 
 ## Project Summary
 Our aim is to provide useful information for prospective travelers to National Parks.
