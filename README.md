@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # travel-project
 ![NationalParks](/static/img/home_page_v2.PNG)
+=======
+# travel-project 
+# App Functional at : https://nationalpark-app.herokuapp.com
+#App Deployment : https://travelparkfinder.herokuapp.com
+>>>>>>> fba50cb4e1df6ced96607d0a8dded48a717b028f
 
 
 ## Project Information
