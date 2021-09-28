@@ -3,8 +3,8 @@
 ![NationalParks](/static/img/home_page_v2.PNG)
 =======
 # travel-project 
-# App Functional at : https://nationalpark-app.herokuapp.com
-#App Deployment : https://travelparkfinder.herokuapp.com
+# App Deployed at : https://nationalpark-app.herokuapp.com
+
 
 
 
